@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mmamorim/SDAula02Manha/issues"
   },
-  "homepage": "https://github.com/mmamorim/SDAula02Manha#readme"
+  "homepage": "https://github.com/mmamorim/SDAula02Manha#readme",
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
 }
