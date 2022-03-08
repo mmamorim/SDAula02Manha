@@ -1,5 +1,8 @@
 
 console.log("oi gente");
 
+let faker = require("faker-br");
 
-console.log("oi xsssssssss");
+let texto = faker.lorem.paragraphs();
+
+console.log(texto);
